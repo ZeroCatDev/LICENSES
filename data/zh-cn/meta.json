@@ -1,0 +1,54 @@
+{
+  "title": {
+    "description": "https://spdx.org/licenses/指定的许可证全名",
+    "required": true
+  },
+  "spdx-id": {
+    "description": "由https://spdx.org/licenses/指定的短标识符",
+    "required": true
+  },
+  "description": {
+    "description": "许可证的人类可读描述",
+    "required": true
+  },
+  "how": {
+    "description": "有关如何实施许可证的说明",
+    "required": true
+  },
+  "conditions": {
+    "description": "必需规则的弹头列表",
+    "required": true
+  },
+  "permissions": {
+    "description": "允许规则的项目符号清单",
+    "required": true
+  },
+  "limitations": {
+    "description": "有限规则的项目符号清单",
+    "required": true
+  },
+  "using": {
+    "description": "使用带有直接许可证文件的许可证的3个著名项目的列表，这些示例可以遵循新移民的示例，并且可以以`project_name的形式：[Chincele]（https://github.com/licensee/licensee）检测到这些示例。 `",
+    "required": true
+  },
+  "featured": {
+    "description": "是否应在主页上列出许可证（默认为false）",
+    "required": false
+  },
+  "hidden": {
+    "description": "许可是否既不是[流行]（https://opensource.org/licenses），也不填写[https://choosealicense.com/licenses/）",
+    "required": false
+  },
+  "nickname": {
+    "description": "如果适用（例如，GPLV3），习惯短名称（例如）",
+    "required": false
+  },
+  "note": {
+    "description": "有关许可证的其他信息",
+    "required": false
+  },
+  "redirect_from": {
+    "description": "相对路径以重定向到许可证，以防止破坏旧URL",
+    "required": false
+  }
+}
