@@ -1,0 +1,54 @@
+{
+  "title": {
+    "description": "The license full name specified by https://spdx.org/licenses/",
+    "required": true
+  },
+  "spdx-id": {
+    "description": "Short identifier specified by https://spdx.org/licenses/",
+    "required": true
+  },
+  "description": {
+    "description": "A human-readable description of the license",
+    "required": true
+  },
+  "how": {
+    "description": "Instructions on how to implement the license",
+    "required": true
+  },
+  "conditions": {
+    "description": "Bulleted list of required rules",
+    "required": true
+  },
+  "permissions": {
+    "description": "Bulleted list of permitted rules",
+    "required": true
+  },
+  "limitations": {
+    "description": "Bulleted list of limited rules",
+    "required": true
+  },
+  "using": {
+    "description": "A list of 3 notable projects using the license with straightforward LICENSE files which serve as examples newcomers can follow and that can be detected by [licensee](https://github.com/licensee/licensee) in the form of `project_name: license_file_url`",
+    "required": true
+  },
+  "featured": {
+    "description": "Whether the license should be featured on the main page (defaults to false)",
+    "required": false
+  },
+  "hidden": {
+    "description": "Whether the license is neither [popular](https://opensource.org/licenses) nor fills out the [spectrum of licenses](https://choosealicense.com/licenses/) from strongly conditional to unconditional (defaults to true)",
+    "required": false
+  },
+  "nickname": {
+    "description": "Customary short name if applicable (e.g, GPLv3)",
+    "required": false
+  },
+  "note": {
+    "description": "Additional information about the licenses",
+    "required": false
+  },
+  "redirect_from": {
+    "description": "Relative path(s) to redirect to the license from, to prevent breaking old URLs",
+    "required": false
+  }
+}

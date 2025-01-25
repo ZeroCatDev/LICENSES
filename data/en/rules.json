@@ -1,0 +1,76 @@
+{
+  "permissions": {
+    "commercial-use": {
+      "label": "Commercial use",
+      "description": "The licensed material and derivatives may be used for commercial purposes."
+    },
+    "modifications": {
+      "label": "Modification",
+      "description": "The licensed material may be modified."
+    },
+    "distribution": {
+      "label": "Distribution",
+      "description": "The licensed material may be distributed."
+    },
+    "private-use": {
+      "label": "Private use",
+      "description": "The licensed material may be used and modified in private."
+    },
+    "patent-use": {
+      "label": "Patent use",
+      "description": "This license provides an express grant of patent rights from contributors."
+    }
+  },
+  "conditions": {
+    "include-copyright": {
+      "label": "License and copyright notice",
+      "description": "A copy of the license and copyright notice must be included with the licensed material."
+    },
+    "include-copyright--source": {
+      "label": "License and copyright notice for source",
+      "description": "A copy of the license and copyright notice must be included with the licensed material in source form, but is not required for binaries."
+    },
+    "document-changes": {
+      "label": "State changes",
+      "description": "Changes made to the licensed material must be documented."
+    },
+    "disclose-source": {
+      "label": "Disclose source",
+      "description": "Source code must be made available when the licensed material is distributed."
+    },
+    "network-use-disclose": {
+      "label": "Network use is distribution",
+      "description": "Users who interact with the licensed material via network are given the right to receive a copy of the source code."
+    },
+    "same-license": {
+      "label": "Same license",
+      "description": "Modifications must be released under the same license when distributing the licensed material. In some cases a similar or related license may be used."
+    },
+    "same-license--file": {
+      "label": "Same license (file)",
+      "description": "Modifications of existing files must be released under the same license when distributing the licensed material. In some cases a similar or related license may be used."
+    },
+    "same-license--library": {
+      "label": "Same license (library)",
+      "description": "Modifications must be released under the same license when distributing the licensed material. In some cases a similar or related license may be used, or this condition may not apply to works that use the licensed material as a library."
+    }
+  },
+  "limitations": {
+    "trademark-use": {
+      "label": "Trademark use",
+      "description": "This license explicitly states that it does NOT grant trademark rights, even though licenses without such a statement probably do not grant any implicit trademark rights."
+    },
+    "liability": {
+      "label": "Liability",
+      "description": "This license includes a limitation of liability."
+    },
+    "patent-use": {
+      "label": "Patent use",
+      "description": "This license explicitly states that it does NOT grant any rights in the patents of contributors."
+    },
+    "warranty": {
+      "label": "Warranty",
+      "description": "This license explicitly states that it does NOT provide any warranty."
+    }
+  }
+}

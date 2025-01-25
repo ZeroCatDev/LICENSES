@@ -1,0 +1,9 @@
+{
+  "fullname": "The full name or username of the repository owner",
+  "login": "The repository owner's username",
+  "email": "The repository owner's primary email address",
+  "project": "The repository name",
+  "description": "The description of the repository",
+  "year": "The current year",
+  "projecturl": "The repository URL or other project website"
+}

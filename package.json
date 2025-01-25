@@ -1,0 +1,29 @@
+{
+  "name": "licenses",
+  "version": "1.0.0",
+  "main": "index.js",
+  "dependencies": {
+    "@translate-tools/core": "^2.0.1",
+    "chalk": "^5.4.1",
+    "js-yaml": "^4.1.0"
+  },
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 0",
+    "build": "node build.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zerocatdev/license.git"
+  },
+  "keywords": [
+    "license"
+  ],
+  "author": "sunwuyuan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zerocatdev/license/issues"
+  },
+  "homepage": "https://github.com/zerocatdev/license#readme",
+  "description": ""
+}
